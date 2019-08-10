@@ -1,4 +1,0 @@
-".\Objects\STARTUP.obj",
-".\Objects\eight led.obj" 
-TO ".\Objects\eight led" 
-PRINT(".\Listings\eight led.m51")
